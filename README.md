@@ -1,6 +1,6 @@
-# WEB103 Prework - _👉🏿 Name of App Here_
+# WEB103 Prework - _Tina's Creator Gallery_
 
-Submitted by: **Tina's Creator Gallery**
+Submitted by: **Tina Chen**
 
 About this web app: **This app shares some of my favorite online creators. They are showcased as cards, each with information about the creator's name, description, and social media links.**
 
