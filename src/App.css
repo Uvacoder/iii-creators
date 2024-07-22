@@ -1,0 +1,78 @@
+.App {
+  font-family: Avenir, "Century Gothic", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+  font-size: calc(10px + 2vmin);
+  color: black;
+  justify-content: center;
+  background-color: #f8f9f9;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+}
+
+.sidenav {
+  /* height: 5%; */
+  width: 100%;
+  /* position: relative; */
+  /* background-color: hsla(0, 1%, 31%, 0.208); */
+  /* overflow-y: scroll; */
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: center;
+  /* z-index: 999; */
+  background-color: #646cff;
+  background-color: #00256c;
+  margin: 0px;
+  padding: 0px;
+}
+
+.sidenav a {
+  display: block;
+  padding: 10px;
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+  text-decoration: none;
+  margin-right: 20px;
+}
+
+.sidenav a:hover {
+  background-color: #6575a2;
+  border-radius: 5px;
+}
+
+.val_name {
+  margin-right: 760px;
+  font-weight: bold;
+  color: white;
+}
+
+.homeDiv {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  width: 900px;
+  height: 700px;
+  transform: translateY(-100px);
+}
+
+.homeDiv h1 {
+  font-size: 50px;
+  font-weight: bold;
+  color: #00256c;
+}
+
+.homeDiv p {
+  font-size: 20px;
+  font-weight: bold;
+  /* color: #00256c; */
+}
